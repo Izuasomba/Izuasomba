@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izuasomba
 - 👀 I’m interested in Growth
-- 🌱 I’m currently takinh a course on fullstack software development
+- 🌱 I’m currently taking a course on fullstack software development
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me izuasomba56@gmail.com
 
